@@ -1,7 +1,8 @@
 EN
-MIPS Assembly Program that moves content between two different vectors ($a0 -> $a1) and stores the number of copied values on $v0
+MIPS Assembly Program that moves content between two different vectors ($a0 -> $a1) and stores the number of 
+movements on $v0
 The user must inform the word that must be used as a stop condition when copying data to the second vector
-The number of copied words must be displayed to the user in the end of the execution
+The number of copied words are to be displayed to the user in the end of the execution
 
 PT
 Programa em assembly do MIPS onde são copiadas palavras de um vetor (cujo endereço base 
